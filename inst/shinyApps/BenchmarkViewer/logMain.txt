@@ -1,0 +1,23 @@
+
+2025-02-10 09:18:47	benchmark | Andromeda@main |createStudyData | start
+2025-02-10 09:18:47	benchmark | Andromeda@main |createStudyData | start
+
+2025-02-10 09:27:01	benchmark | Andromeda@main |getDbCohortMethodData | start
+2025-02-10 09:27:01	benchmark | Andromeda@main |getDbCohortMethodData | start
+
+2025-02-10 11:05:57	benchmark | Andromeda@main |getDbCohortMethodData | finish
+2025-02-10 11:05:57	benchmark | Andromeda@main |getDbCohortMethodData | finish
+2025-02-10 10:05:57	benchmark | Andromeda@main |saveCohortMethodData | start
+2025-02-10 10:05:57	benchmark | Andromeda@main |saveCohortMethodData | start
+2025-02-10 10:14:40	Disconnected Andromeda. This data object can no longer be used
+2025-02-10 10:14:40	Disconnected Andromeda. This data object can no longer be used
+2025-02-10 15:14:40	benchmark | Andromeda@main |saveCohortMethodData | finish
+2025-02-10 15:14:40	benchmark | Andromeda@main |saveCohortMethodData | finish
+2025-02-10 15:14:40	benchmark | Andromeda@main |createStudyData | finish
+2025-02-10 15:14:40	benchmark | Andromeda@main |createStudyData | finish
+2025-02-10 10:18:30	Cannot find file './output/cmData.zip'
+2025-02-10 10:18:30	Cannot find file './output/cmData.zip'
+2025-02-10 10:23:24	Computing covariate prevalence
+
+2025-02-10 10:23:24	Computing covariate prevalence
+

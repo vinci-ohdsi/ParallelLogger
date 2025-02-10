@@ -1,0 +1,22 @@
+
+2025-02-10 09:18:47	benchmark | Andromeda@develop |createStudyData | start
+2025-02-10 09:18:47	benchmark | Andromeda@develop |createStudyData | start
+2025-02-10 09:19:01	Connecting using SQL Server driver
+2025-02-10 09:19:01	Connecting using SQL Server driver
+2025-02-10 09:19:01	- Using Windows integrated security
+
+2025-02-10 09:27:01	benchmark | Andromeda@develop |getDbCohortMethodData | start
+2025-02-10 09:27:01	benchmark | Andromeda@develop |getDbCohortMethodData | start
+
+2025-02-10 10:05:53	Fetched outcomes total count is 141861
+2025-02-10 10:05:53	Fetched outcomes total count is 141861
+2025-02-10 10:05:57	benchmark | Andromeda@develop |getDbCohortMethodData | finish
+2025-02-10 10:05:57	benchmark | Andromeda@develop |getDbCohortMethodData | finish
+2025-02-10 10:05:57	benchmark | Andromeda@develop |saveCohortMethodData | start
+2025-02-10 10:05:57	benchmark | Andromeda@develop |saveCohortMethodData | start
+2025-02-10 10:14:40	Disconnected Andromeda. This data object can no longer be used
+2025-02-10 10:14:40	Disconnected Andromeda. This data object can no longer be used
+2025-02-10 10:14:40	benchmark | Andromeda@develop |saveCohortMethodData | finish
+2025-02-10 10:14:40	benchmark | Andromeda@develop |saveCohortMethodData | finish
+2025-02-10 10:14:40	benchmark | Andromeda@develop |createStudyData | finish
+2025-02-10 10:14:40	benchmark | Andromeda@develop |createStudyData | finish
